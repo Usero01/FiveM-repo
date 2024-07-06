@@ -8,4 +8,5 @@ ensure sessionmanager
 ensure basic-gamemode
 ensure hardcap
 ensure rconlog
+ensure showroom
 ```
